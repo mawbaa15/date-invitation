@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: rgb(111, 31, 31);
+  background: rgb(37, 49, 2);
   font-family: "Loved by the King", cursive;
   overflow: hidden;
 }
@@ -35,7 +35,7 @@ body {
 h2 {
   text-align: center;
   font-size: 2.7em;
-  color: #e94d58;
+  color: bisque;
   margin: 15px 0;
 }
 #btn-group {
@@ -60,12 +60,12 @@ button {
 }
 button:nth-child(1) {
   margin-left: -200px;
-  background: #e94d58;
+  background: rgb(241, 11, 11);
 }
 button:nth-child(2) {
   margin-right: -200px;
   background: rgb(138, 79, 79);
-  background: #e94d58;
+  background: black;
 }
 
 #no-btn {

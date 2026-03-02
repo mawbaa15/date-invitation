@@ -5,8 +5,8 @@ const yesBtn = document.getElementById("yes-btn");
 const noBtn = document.getElementById("no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "see you on the 14th of Feb!";
-  gif.src = "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
+  question.innerHTML = "Merciii 😇, je passerai te chercher vers 16h !";
+  gif.src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ4YjI4bXZhMnN2MWxtMnQ1ZGJ6ajdvMjFwMDZwczJ5Y2d1b2RqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2urlKjA9f8lKM8b3w/giphy.gif";
 });
 
 yesBtn.addEventListener("click", () => {
